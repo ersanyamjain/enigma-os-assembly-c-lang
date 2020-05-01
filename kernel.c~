@@ -1,0 +1,4 @@
+kamin()
+{
+	char* vidmem=(cahr*)0xb8000;
+}
